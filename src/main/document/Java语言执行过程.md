@@ -8,4 +8,4 @@ hotspot中用户线程和系统线程的比例是1比1
 轻量级，在jvm进程内部就可以管理
 
 
-![Image text]()
+![Image text](https://github.com/zx669412425/java-basic/blob/master/src/main/photo/20160812104144969.jpg)
